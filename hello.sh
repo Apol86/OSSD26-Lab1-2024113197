@@ -1,3 +1,3 @@
 #!/bin/sh
-message="Hello Git v1"
+message="Hello Git v2"
 printf "%s\n" "$message"
